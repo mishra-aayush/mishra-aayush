@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aayush</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mishra-aayush" alt="mishra-aayush" /> </p>
+<p align="left"> [![Linkedin Badge](https://img.shields.io/badge/-aayushmishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayushmishra/)](https://www.linkedin.com/in/aayushmishra/) <img src="https://komarev.com/ghpvc/?username=mishra-aayush" alt="mishra-aayush" /> </p>
 
 - 📫 Reach me at **17ucs001@lnmiit.ac.in**
 
